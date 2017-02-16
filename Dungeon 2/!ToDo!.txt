@@ -1,0 +1,10 @@
+add new maps - difficulty according to level
+add gold 
+add traps - arrow traps
+add boss - multi-shot?
+add grenades
+add new weapon - rocket launcher
+add enemy - follows player at certain agro range
+add upgrades - damage, health, speed
+add shop - guns & equipment
+ 
